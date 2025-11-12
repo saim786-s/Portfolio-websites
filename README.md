@@ -53,7 +53,7 @@ A responsive, one-page portfolio website showcasing my skills, projects, and pro
 3. No build process required
 
 ## GitHub Repository
-https://github.com/saim786-s/Portfolio-websites
+https://github.com/saim786-s/Portfolio-websites/tree/main
 
 ## Project Structure
 PORTFOLIO WEBSITE/
